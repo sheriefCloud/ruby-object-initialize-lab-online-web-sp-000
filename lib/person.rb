@@ -2,8 +2,7 @@
 
 class Person
 
-  Def initialize (perosn_name)
+  Def initialize (person_name)
     @name = person_name
   end
 end
-  
